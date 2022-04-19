@@ -2,12 +2,9 @@
 <extension type="plugin" version="3.9" group="content" method="upgrade">
     <name>Workshop - Content Plugin</name>
     <version>1.0.0</version>
-    <creationDate>2020-12-09</creationDate>
-    <license>http://www.gnu.org/licenses/gpl</license>
-    <copyright>Copyright 2020 Viktor Vogel. All rights reserved.</copyright>
+    <creationDate>April 5th</creationDate>
     <author>Pearl</author>
-    <authoremail>admin@kubik-rubik.de</authoremail>
-    <authorurl>https://kubik-rubik.de/</authorurl>
+    <authoremail>pearlpriyanka15@gmail.com</authoremail>
     <description>Wrapper plugin for the content plugin group.</description>
     <files>
         <filename plugin="workshop">workshop.php</filename>
