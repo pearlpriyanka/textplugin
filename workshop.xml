@@ -7,7 +7,7 @@
     <authoremail>pearlpriyanka15@gmail.com</authoremail>
     <description>Wrapper plugin for the content plugin group.</description>
     <files>
-        <filename plugin="workshop">workshop.php</filename>
+        <filename plugin="workshop">plugin.php</filename>
     </files>
     <languages folder="language">
         <language tag="en-GB">en-GB/en-GB.plg_content_workshop.ini</language>
